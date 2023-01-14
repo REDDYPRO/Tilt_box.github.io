@@ -6,8 +6,8 @@
     color: #fff;
 }
 :root{
-    --height:440px;
-    --width:240px;
+    --height:400px;
+    --width:280px;
     --angle:15deg;
     --negative_angle:calc(var(--angle) *-1);
     --positive_angle:calc(var(--angle) *1);
